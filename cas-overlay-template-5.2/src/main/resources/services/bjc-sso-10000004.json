@@ -1,0 +1,9 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^(http)://10.100.254.93:8089.*",
+  "name" : "bjc-sso",
+  "theme" : "apereo",
+  "id" : 10000004,
+  "description" : "bjc-sso",
+  "evaluationOrder" : 10004
+}
